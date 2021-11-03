@@ -1,0 +1,5 @@
+venv/
+sql_app.db
+geckodriver.log
+__pycache__/
+.idea/
